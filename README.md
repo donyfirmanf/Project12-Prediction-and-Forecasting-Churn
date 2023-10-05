@@ -1,6 +1,6 @@
 # Project12-Prediction-and-Forecasting-Churn
 
-### Description of the data
+## Description of the data
 
 Each log entry is a user action or an event. 
 
